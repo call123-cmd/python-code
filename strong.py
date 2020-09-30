@@ -50,3 +50,6 @@ if __name__ == "__main__" :
     # loop till list is not empty 
     for strong_num in strong_num_list : 
         print(strong_num, end =" ") 
+        
+       
+      
