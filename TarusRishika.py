@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Solve the quadratic equation ax**2 + bx + c = 0
 # Author = @FaizAlam
 # import complex math module
